@@ -2,7 +2,7 @@
 
 if [[ "$1" == "" || "$1" == "-h" ]]; then
 	echo ""
-	echo "Provides upstream proxy for minihttp server"
+	echo "Serverito for Linux Distributions"
 	echo
 	echo "usage:"
 	echo "	$0 <url> <method> <path> <protocol>"
