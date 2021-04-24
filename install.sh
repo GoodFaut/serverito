@@ -1,4 +1,3 @@
-echo Installing Serverito Core
 mkdir serverito_cache
 CD /serverito_cache
 wget https://github.com/GoodFaut/serverito/archive/refs/heads/master.zip
